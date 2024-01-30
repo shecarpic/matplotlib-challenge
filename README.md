@@ -16,3 +16,5 @@ Create a line plot and a scatter plot.
 Calculate correlation and regression.
 
 Submit final analysis based off the data.
+
+AskBCS Learning Assistants was helpful with the completion of this assignment
